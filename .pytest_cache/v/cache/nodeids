@@ -1,0 +1,5 @@
+[
+  "tests/test_ip_lookup.py::TestLookup::test_basic",
+  "tests/test_ip_lookup.py::TestLookup::test_empty",
+  "tests/test_ip_lookup.py::TestLookup::test_type_error"
+]
